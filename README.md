@@ -4,7 +4,6 @@
 | key     | value                                                       |
 | ------- | ----------------------------------------------------------- |
 | Name    | 川原 祐                                                     |
-| Age     | 27                                                          |
 | Twitter | [@TasukuKawahara](https://twitter.com/TaskKAWAHARA)         |
 | Qiita   | [@TasukuKawahara](https://qiita.com/TaskKAWAHARA)           |
 | Blog    | [ハードルを下げ続けるブログ](task-kawahara.hatenablog.com/) |
