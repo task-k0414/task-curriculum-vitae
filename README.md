@@ -16,11 +16,11 @@
 - Python3
   - Django
   - Pandas / Numpy
-- Javascript(TypeScript)
+- JavaScript(TypeScript)
   - Vue.js / Nuxt.js
   - jQuery
   - Node.js / Express
-  - webpack / babel
+  - webpack / Babel
 - C#
 - PHP
   - Laravel
@@ -36,7 +36,7 @@
 
 - Git / GitHub
 - Docker
-- Windows / Mac OS X / Linux(Ubuntu 16.x, 18.x)
+- Windows / macOS / Linux(Ubuntu 16.x, 18.x)
 - Visual Studio Code
 - Visual Studio 2017 Community
 - PyCharm (JetBrains製 IDE)
