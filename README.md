@@ -21,9 +21,6 @@
   - jQuery
   - Node.js / Express
   - webpack / Babel
-- C#
-- PHP
-  - Laravel
 - Java
   - 自主学習、業務では未使用
 - HTML5
