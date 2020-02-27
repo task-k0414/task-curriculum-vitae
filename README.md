@@ -13,62 +13,65 @@
 
 ### 言語/フレームワーク/ライブラリ
 
+- JavaScript / TypeScript
+  - Vue.js / Nuxt.js
+  - React
+  - Node.js / Express, NestJS
+  - webpack / Babel
 - Python3
   - Django
-  - Pandas / Numpy
-- JavaScript(TypeScript)
-  - Vue.js / Nuxt.js
-  - jQuery
-  - Node.js / Express
-  - webpack / Babel
-- Java
-  - 自主学習、業務では未使用
 - HTML5
 - CSS3(SCSS)
+- PostgreSQL
 - MySQL
-- 4D
-  - RDB統合開発環境、Access + VBA + SQL Server + IDE を一緒にしたようなものでSQLコマンドを一部実行可能だが、NoSQL。また、独自言語は手続き型言語。
-  - <http://www.4d.com/jp/>
 
 ### ツール・OS・他
 
-- Git / GitHub
+- Git
 - Docker
 - Windows / macOS / Linux(Ubuntu 16.x, 18.x)
 - Visual Studio Code
-- Visual Studio 2017 Community
-- PyCharm (JetBrains製 IDE)
-- Apache
+- CircleCI
+- GitHub Actions
 
 ## 強みと/これから伸ばしたいこと/興味があること
 
 - 強み
   - Vue.js / Nuxt.js の実務経験
-  - フロントエンド・バックエンドの実装を一通り経験している
-  - テーブル・機能設計から実装まで、一通りを独力でこなすことができる
-  - 好奇心が強く新しもの好きで、トレンドを追うことが好き
+  - フルスクラッチでのWebアプリケーション構築
+  - AWSでの一般的な構成を一通り行える
+  - 設計経験
+  - テストの実装経験
   - 営業経験から、折衝ごとへの対応が得意
 - これから伸ばしてゆきたいこと
-  - フロントエンドのスキルを中心にスキルを伸ばしていきたい
   - OSSへ貢献してゆきたい
     - 技術的なコミットだけでなくイベントの運営などもサポートしていき、日本のエンジニアの技術力向上の下支えとなる活動をしたい
   - チームビルディング力、マネジメント力を身に着けたい
-- 興味があり、今後身につけたいこと
-  - テスト駆動開発
-  - プロダクト全体の設計
-  - 自動化と、CI・CDの運用・構築
 
 ## 目指すキャリア像
 
-- 短期目標（1,2年）
-  - 開発チームの中でテックリードエンジニアとして認められ、技術力でチームを牽引できる人材になる
-- 中長期目標（5年〜）
+- 目標（〜3年）
   - 適切な技術選定ができ、社内で働くエンジニアののために生産性を最大化する施策が提案できる人材になる
   - エンジニアチームのリーダーとして、チームの働き方を最大化できる人材になりたい
 
 ## 職務経歴
 
-### 2017.9 - 現在: 株式会社テラ
+### 2019.2 - 現在: 株式会社ギブリー
+
+- 職務: Webエンジニア
+
+#### エンジニア向け採用プラットフォーム [athletics](https://athletix.run) 新規開発
+
+- 担当: Developer
+- 業務: 設計・開発
+- 技術スタック: VueJS / Node.js / NestJS / TypeScript / CircleCI / AWS
+
+**- 2019/10 新サービスローンチ**
+
+チームメンバー4人とステークホルダーを交え、新サービスの企画から入り、PoCを作成。
+その後、ビジネス要件の変化に伴い、プロダクトの方向修正を行い、設計・実装した。
+
+### 2017.9 - 2019.2: 株式会社テラ
 
 - 職務:システムエンジニア/プログラマ
 
