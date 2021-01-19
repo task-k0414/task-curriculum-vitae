@@ -161,6 +161,7 @@
 - 技術スタック: Vue.js/Nuxt.js, TypeScript, GraphQL, Go, GCP, Firebase, GitHub Actions
 
 主にフロントエンドの追加機能実装担当として業務。一部、サーバーの改修も必要に応じて行う。
+稼働は、週10〜18時間程度
   
 ### 2020.7 - 2020.9 不動産ポータルサイト構築
 
