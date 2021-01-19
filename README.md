@@ -65,7 +65,7 @@
 
 - 担当: Developer
 - 業務: 設計・開発
-- 技術スタック: VueJS / Node.js / NestJS / TypeScript / CircleCI / AWS
+- 技術スタック: VueJS / Node.js / NestJS / TypeScript / CircleCI / AWS / PostgreSQL
 
 **- 2019/10 新サービスローンチ**
 
