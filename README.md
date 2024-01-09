@@ -11,26 +11,27 @@
 
 ## スキル
 
+### 領域
+
+- Frontend
+- Backend
+- AWS 環境構築
+
 ### 言語/フレームワーク/ライブラリ
 
-- JavaScript / TypeScript
-  - Vue.js / Nuxt.js
+- JavaScript / TypeScript (7年)
   - React
-  - Node.js / Express, NestJS
-  - webpack / Babel
-- Python3
-  - Django
-- HTML5
-- CSS3(SCSS)
-- PostgreSQL
-- MySQL
+  - NestJS/Express
+  - Vue
+- Scala (1年)
+- Python (1年)
+- PostgreSQL (5年)
 
 ### ツール・OS・他
 
 - Git
 - Docker
-- Windows / macOS / Linux(Ubuntu 16.x, 18.x)
-- Visual Studio Code
+- Windows / macOS / Linux(Ubuntu)
 - CircleCI
 - GitHub Actions
 
@@ -52,8 +53,7 @@
 ## 目指すキャリア像
 
 - 目標（〜3年）
-  - 適切な技術選定ができ、社内で働くエンジニアののために生産性を最大化する施策が提案できる人材になる
-  - エンジニアチームのリーダーとして、チームの働き方を最大化できる人材になりたい
+  - エンジニアチームの
 
 ## 職務経歴
 
